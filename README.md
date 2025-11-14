@@ -1,5 +1,7 @@
 # Simone Burrai • Junior Full Stack Developer 💻
 
+![My Profile Photo](foto.png)
+
 ## Benvenuto sul mio profilo! 👋
 
 ### Dai un'occhiata alle mie competenze e progetti! 🌐
