@@ -1,4 +1,4 @@
-# Junior Full Stack Developer 💻
+# Simone Burrai • Junior Full Stack Developer 💻
 
 ## Benvenuto sul mio profilo! 👋
 
@@ -36,8 +36,8 @@ Ecco le tecnologie principali che uso nel mio lavoro:
 
 ## 📞 Contatti
 
-Connettiamoci! Sono alla ricerca di un'esperienza lavorativa stimolante.
-* ✉️ [**MAIL**](burrai.s98@gmail.com)
+### Connettiamoci! Sono alla ricerca di un'esperienza lavorativa stimolante.
+* ✉️ [**E-Mail**](burrai.s98@gmail.com)
 * 🔗 [**LinkedIn**](https://linkedin.com/in/simoneburrai)
 * 🔗 [**GitHub**](https://github.com/simoneburrai)
 * 👤 [**Linktree**](https://linktr.ee/simoneburrai)
