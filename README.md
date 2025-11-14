@@ -1,10 +1,10 @@
 # Junior Full Stack Developer 💻
 
-Benvenuto sul mio profilo! 👋
+## Benvenuto sul mio profilo! 👋
 
-Dai un'occhiata alle mie competenze e progetti!
+### Dai un'occhiata alle mie competenze e progetti! 🌐
 
-Se ti va scrivimi e dammi un feedback, in fondo trovi i miei contatti
+### Se ti va scrivimi e dammi un feedback, in fondo trovi i miei contatti 📞
 
 ---
 
@@ -18,7 +18,7 @@ Ecco le tecnologie principali che uso nel mio lavoro:
 | **Backend** | Node.js, Express.js | JWT, Middleware |
 | **Database** | MySQL, PostgreSQL | Prisma (ORM) |
 | **Controllo Versione**| Git, GitHub | |
-| **Altri Linguaggi**| Python ||
+| **Altri Linguaggi**| Python |Flask|
 
 ---
 
@@ -30,7 +30,7 @@ Ecco le tecnologie principali che uso nel mio lavoro:
 | [**Daylicious**](https://github.com/simoneburrai/daylicious) | React, Typescript, Prisma, PostgreSQL | Web app full-stack per la gestione intelligente della cucina, con autenticazione JWT e gestione utenti. |
 | [**SPA Records**](https://spa-records.vercel.app/products) | React, API REST, LocalStorage | Applicazione a singola pagina per la gestione di record, con filtri dinamici e ricerca. |
 | [**Fashion E-commerce Web App**](https://github.com/simoneburrai/fullstack-project-final) | React, API REST, Express.js, MySQL | E-commerce completo con carrello, gestione taglie/quantità e gestione ordini. |
-| [**BooRoad**]([https://github.com/simoneburrai/fullstack-project-final](https://boo-road-webapp.vercel.app/)) | React, Bootstrap | SPA per organizzatori di viaggio, con gestione dei viaggi, dei viaggiatori e delle info relative al viaggio |
+| [**BooRoad**](https://boo-road-webapp.vercel.app/) | React, Bootstrap | SPA per organizzatori di viaggio, con gestione dei viaggi, dei viaggiatori e delle info relative al viaggio |
 
 ---
 
