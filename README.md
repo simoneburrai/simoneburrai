@@ -30,7 +30,7 @@ Ecco le tecnologie principali che uso nel mio lavoro:
 | Progetto | Stack | Descrizione |
 | :--- | :--- | :--- |
 | [**Daylicious**](https://github.com/simoneburrai/daylicious) | React, Typescript, Prisma, PostgreSQL | Web app full-stack per la gestione intelligente della cucina, con autenticazione JWT e gestione utenti. |
-| [**SPA Records**](https://spa-records.vercel.app/products) | React, API REST, LocalStorage | Applicazione a singola pagina per la gestione di record, con filtri dinamici e ricerca. |
+| [**SPA Records**](https://spa-records.vercel.app/) | React, API REST, LocalStorage | Applicazione a singola pagina per la gestione di record, con filtri dinamici e ricerca. |
 | [**Fashion E-commerce Web App**](https://github.com/simoneburrai/fullstack-project-final) | React, API REST, Express.js, MySQL | E-commerce completo con carrello, gestione taglie/quantità e gestione ordini. |
 | [**BooRoad**](https://boo-road-webapp.vercel.app/) | React, Bootstrap | SPA per organizzatori di viaggio, con gestione dei viaggi, dei viaggiatori e delle info relative al viaggio |
 
