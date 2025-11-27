@@ -2,43 +2,43 @@
 
 ![My Profile Photo](photo.png)
 
-## Benvenuto sul mio profilo! 👋
+## Welcome to my profile! 👋
 
-### Dai un'occhiata alle mie competenze e progetti! 🌐
+### Check out my skills and projects! 🌐
 
-### Se ti va scrivimi e dammi un feedback, in fondo trovi i miei contatti 📞
+### Feel free to reach out and give me feedback; you can find my contacts below 📞
 
 ---
 
-## 💻 Competenze Tecniche
+## 💻 Technical Skills
 
-Ecco le tecnologie principali che uso nel mio lavoro:
+Here are the main technologies I use in my work:
 
-| Categoria | Stack Principale | Strumenti |
+| Category | Main Stack | Tools |
 | :--- | :--- | :--- |
-| **Frontend** | React, TypeScript, JavaScript | HTML, CSS, Bootstrap, API REST |
+| **Frontend** | React, TypeScript, JavaScript | HTML, CSS, Bootstrap, REST APIs |
 | **Backend** | Node.js, Express.js | JWT, Middleware |
 | **Database** | MySQL, PostgreSQL | Prisma (ORM) |
-| **Controllo Versione**| Git, GitHub | |
-| **Altri Linguaggi**| Python |Flask|
+| **Version Control**| Git, GitHub | |
+| **Other Languages**| Python | Flask |
 
 ---
 
 
-## 🚀 Progetti In Evidenza
+## 🚀 Featured Projects
 
-| Progetto | Stack | Descrizione |
+| Project | Stack | Description |
 | :--- | :--- | :--- |
-| [**Daylicious**](https://github.com/simoneburrai/daylicious) | React, Typescript, Prisma, PostgreSQL | Web app full-stack per la gestione intelligente della cucina, con autenticazione JWT e gestione utenti. |
-| [**SPA Records**](https://spa-records.vercel.app/) | React, API REST, LocalStorage | Applicazione a singola pagina per la gestione di record, con filtri dinamici e ricerca. |
-| [**Fashion E-commerce Web App**](https://github.com/simoneburrai/fullstack-project-final) | React, API REST, Express.js, MySQL | E-commerce completo con carrello, gestione taglie/quantità e gestione ordini. |
-| [**BooRoad**](https://boo-road-webapp.vercel.app/) | React, Bootstrap | SPA per organizzatori di viaggio, con gestione dei viaggi, dei viaggiatori e delle info relative al viaggio |
+| [**Daylicious**](https://github.com/simoneburrai/daylicious) | React, Typescript, Prisma, PostgreSQL | Full-stack web app designed to **minimize food waste** through intelligent kitchen management, featuring robust JWT authentication and user management. |
+| [**SPA Records**](https://spa-records.vercel.app/) | React, REST API, LocalStorage | Single-page application for record management, built for **fast data retrieval** and organization with dynamic filters and search. |
+| [**Fashion E-commerce Web App**](https://github.com/simoneburrai/fullstack-project-final) | React, REST API, Express.js, MySQL | Complete e-commerce solution with cart, **precise size/quantity management**, and full order processing system. |
+| [**BooRoad**](https://boo-road-webapp.vercel.app/) | React, Bootstrap | SPA for trip organizers, allowing **streamlined management** of trips, travelers, and essential itinerary information. |
 
 ---
 
-## 📞 Contatti
+## 📞 Contact
 
-### Connettiamoci! Sono alla ricerca di un'esperienza lavorativa stimolante.
+### I am actively seeking a **Junior Full Stack Developer role** and would love to discuss how my skills can benefit your team. Let's connect!
 * ✉️ [**E-Mail**](burrai.s98@gmail.com)
 * 🔗 [**LinkedIn**](https://linkedin.com/in/simoneburrai)
 * 🔗 [**GitHub**](https://github.com/simoneburrai)
