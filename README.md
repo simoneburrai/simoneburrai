@@ -10,7 +10,7 @@ I'm an energetic and proactive developer with a unique professional background. 
 | :---- | :---- | :---- |
 | **Frontend** | React, TypeScript, JavaScript | **Tailwind CSS**, HTML5, CSS3, Bootstrap |
 | **Backend** | Node.js, Express.js, Python | JWT, Middleware, REST APIs |
-| **Database** | MySQL, PostgreSQL | Prisma ORM, Sequelize |
+| **Database** | MySQL, PostgreSQL | Prisma ORM, DBeaver, MYSQL Workbench|
 | **Version Control** | Git, GitHub | Agile Methodologies, Linux/SSH |
 
 ## **🌱 Currently Learning**
