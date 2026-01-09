@@ -1,10 +1,8 @@
-<p align="center">
-<img src="banner.png" alt="Simone Burrai - Full Stack Developer Banner" width="100%">
-</p>
 
-Hi there, I'm Simone Burrai 👋
 
-Jr. Full Stack Developer | Former Business Owner | Problem Solver
+# Hi there, I'm Simone Burrai 👋
+
+## Jr. Full Stack Developer 
 
 I'm an energetic and proactive developer with a unique professional background. As a former Business Owner, I developed a strong ability to solve complex problems, maintain composure under pressure, and manage projects with a results-oriented mindset. I now apply these "real-world" skills to building scalable, efficient, and user-friendly software solutions.
 
