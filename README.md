@@ -24,6 +24,7 @@ I am committed to continuous growth and expanding my technical horizon:
 
 | Project | Stack | Description |
 | :---- | :---- | :---- |
+**[Secret Santa Wishlist](https://secret-santa-wishlist-one.vercel.app/)** | React, TS, Node, PostgreSQL, Tailwind | **Full-stack** app per gestire liste dei desideri natalizie. Include logiche di **Hybrid Auth**, gestione immagini e un sistema di favoriti dinamico. |
 | **[Vehicle Estimator](https://github.com/carlocosta92/preventivatore-veicoli)** | React, Tailwind, MySQL | **Group Project**: Managed frontend logic and database architecture. Implemented **mobile testing on Android** via SSH tunnel on Ubuntu to bridge the local environment. |
 | [**Daylicious**](https://github.com/simoneburrai/daylicious) | React, TS, Node, Prisma, PostgreSQL | **Full-stack** app designed to minimize food waste through intelligent kitchen management and JWT security. |
 | [**SPA Records**](https://spa-records.vercel.app/) | React, REST API, LocalStorage | **Single Page Application** for record management, featuring dynamic search, filtering, and persistent favorites. |
